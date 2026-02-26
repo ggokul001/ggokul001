@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gokulakrishnan 👋
 
-<!--
-**ggokul001/ggokul001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 GRC & Security Engineering Enthusiast  
+📌 Focused on ISO 27001, Risk Management & Security Compliance  
+🛡️ Building practical Governance, Risk & Compliance projects  
+🚀 Preparing for SOC Analyst & GRC Engineering roles  
 
-Here are some ideas to get you started:
+## 🔎 Areas of Interest
+- ISO 27001 Implementation
+- Risk Assessment & Risk Register Creation
+- Security Policy Development
+- Compliance Documentation
+- Security Operations (SOC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- LinkedIn: [Add your link here]
+- Email: [Add your email here]
