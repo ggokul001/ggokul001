@@ -13,5 +13,5 @@
 - Security Operations (SOC)
 
 ## 📫 Connect With Me
-- LinkedIn: [Add your link here]
-- Email: [Add your email here]
+- LinkedIn: www.linkedin.com/in/gokulakrishnan09
+- Email: ggokulakrishnan65@gmail.com
