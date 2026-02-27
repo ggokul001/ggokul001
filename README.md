@@ -3,7 +3,7 @@
 🔐 GRC & Security Engineering Enthusiast  
 📌 Focused on ISO 27001, Risk Management & Security Compliance  
 🛡️ Building practical Governance, Risk & Compliance projects  
-🚀 Preparing for SOC Analyst & GRC Engineering roles  
+🚀 Preparing for vulnerability analyst & GRC Engineering roles  
 
 ## 🔎 Areas of Interest
 - ISO 27001 Implementation
