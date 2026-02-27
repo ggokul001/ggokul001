@@ -10,7 +10,7 @@
 - Risk Assessment & Risk Register Creation
 - Security Policy Development
 - Compliance Documentation
-- Security Operations (SOC)
+- penetration testing
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/gokulakrishnan09
