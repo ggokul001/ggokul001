@@ -1,90 +1,27 @@
-# Hi, I'm Gokula krishnan G
+# 💫 About Me:
+Hi, I'm Gokula Krishnan, a Software Engineer and Computer Science graduate passionate about building scalable backend systems, secure APIs, and AI-powered developer tools. I currently work as a Software Support Engineer, collaborating with development teams on software architecture, database design, testing, and troubleshooting. My core technical interests include Python, FastAPI, PostgreSQL, REST APIs, Docker, AWS, and distributed backend systems. I've built GlobePay, a traveler-focused FinTech backend for secure cross-border payments, and DevAgent, an AI-powered software engineering agent that uses LLMs, RAG, embeddings, and GitHub integration to analyze code changes and generate engineering insights. I also actively practice Data Structures & Algorithms and have solved 150+ problems on LeetCode. My goal is to continuously improve my engineering fundamentals and build reliable, scalable products that solve real-world problems
 
-I'm a Computer Science student focused on building scalable backend systems and cloud-based applications.  
-I enjoy working on problems that involve system design, performance, and real-world scalability.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gokulakrishnan09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ggokulakrishnan65@gmail.com) 
 
-## What I’m Currently Focused On
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ggokul001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ggokul001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ggokul001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Building backend systems using Python
-- Designing scalable architectures (distributed systems, APIs)
-- Practicing data structures & algorithms (LeetCode)
-- Exploring cloud technologies and deployment strategies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ggokul001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Tech Stack
-
-**Languages**
-- Python
-- java
-- sql
-
-**Backend**
-- FastAPI / Flask
-- REST API Design
-- Authentication & Authorization
-
-**Databases**
-- PostgreSQL
-- Redis (caching, performance optimization)
-
-**Cloud & DevOps**
-- AWS (basics: EC2, S3)
-- Docker
-- GitHub Actions (CI/CD basics)
-
-**Other**
-- System Design (scalability, load handling)
-- Linux
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ggokul001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ggokul001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Projects
-
-
-
-###Cloud-Based Secure API System
-- Built a backend API with authentication and secure data handling
-- Integrated database with optimized query performance
-- Designed with scalability and modularity in mind
-
----
-
-###Digital Payments Wallet System (Fintech Backend) Tech: Python, FastAPI, PostgreSQL, Redis, AWS,
-Docker, ACID Transactions.
-• Designed and developed a secure digital wallet and payment processing system using FastAPI, enabling peer-to-peer
-transactions with ACID-compliant database operations and strong consistency guarantees.
-• Implemented idempotent APIs, Redis-based caching, and rate limiting, ensuring fault-tolerant transaction handling,
-prevention of duplicate payments, and high availability under concurrent loads.
-• Deployed a containerized backend on AWS (EC2, RDS), integrated JWT-based authentication, audit logging, and
-transaction monitoring, ensuring scalability, security, and production-grade reliability.
-
-
----
-
-##DSA & Problem Solving
-
-- Actively solving medium to hard problems on LeetCode  
-- Focus areas: Arrays, Sliding Window, Graphs, DP  
-- Goal: Strong problem-solving for product-based companies  
-
----
-
-##What I’m Looking For
-
-I'm actively looking for **Software Engineer (Backend / Cloud)** opportunities  
-where I can work on real-world systems and scale applications.
-
----
-
-##Let’s Connect
-
-- LinkedIn:linkedin.com/in/gokulakrishnan09
-- e-mail: ggokulakrishnan65@gmail.com
-- leetcode:leetcode.com/u/gokulgk01/
-
----
-
-*Always open to learning, building, and improving.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
