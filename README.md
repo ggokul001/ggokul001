@@ -1,36 +1,27 @@
-<h1 align="center">Hi 👋, I'm Gokula krishnan G</h1>
-<h3 align="center">A Software engineer from India</h3>
+# 💫 About Me:
+Hi, I'm Gokula Krishnan, a Software Engineer and Computer Science graduate passionate about building scalable backend systems, secure APIs, and AI-powered developer tools. I currently work as a Software Support Engineer, collaborating with development teams on software architecture, database design, testing, and troubleshooting. My core technical interests include Python, FastAPI, PostgreSQL, REST APIs, Docker, AWS, and distributed backend systems. I've built GlobePay, a traveler-focused FinTech backend for secure cross-border payments, and DevAgent, an AI-powered software engineering agent that uses LLMs, RAG, embeddings, and GitHub integration to analyze code changes and generate engineering insights. I also actively practice Data Structures & Algorithms and have solved 150+ problems on LeetCode. My goal is to continuously improve my engineering fundamentals and build reliable, scalable products that solve real-world problems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ggokul001&label=Profile%20views&color=0e75b6&style=flat" alt="ggokul001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggokul001" alt="ggokul001" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gokulakrishnan09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Gokul_info123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ggokulakrishnan65@gmail.com) 
 
-<p align="left"> <a href="https://twitter.com/https://x.com/gokul_info123" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/gokul_info123?logo=twitter&style=for-the-badge" alt="https://x.com/gokul_info123" /></a> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ggokul001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ggokul001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ggokul001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on [Globe pay (fintech project)](https://github.com/ggokul001/GlobePay)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ggokul001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **Fast api, jwt authentication, redis catching, aws hosting, docker,kubernets, CI/CD, RAG, LLM'S , MCP'S etc...**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📝 I regularly write articles on [https://medium.com/@ggokulakrishnan65](https://medium.com/@ggokulakrishnan65)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ggokul001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **React native, react, python, fast api, html, css, etc...**
+---
+[![](https://komarev.com/ghpvc/?username=ggokul001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **ggokulakrishnan65@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/gokul_info123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/gokul_info123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/gokulakrishnan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gokulakrishnan09" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gokul gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gokul gk" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@ggokulakrishnan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ggokulakrishnan65" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gokulgk01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gokulgk01/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggokul001&show_icons=true&locale=en&layout=compact" alt="ggokul001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggokul001&show_icons=true&locale=en" alt="ggokul001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggokul001&" alt="ggokul001" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
